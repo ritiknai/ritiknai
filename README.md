@@ -1,8 +1,7 @@
 
 # 👋 Hi, I’m @ritiknai
-- 👀 I’m web developer
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web projects
+- 👀 I’m Python Developer
+  
 
 
 <!---
